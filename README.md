@@ -1,1 +1,1 @@
-This is a cut-down version of @wzchen's [Probability Cheatsheet PDF](http://www.wzchen.com/probability-cheatsheet/) which I used for my Stat 110 final exam.
+This is a cut-down version of [@wzchen](https://github.com/wzchen)'s [Probability Cheatsheet PDF](http://www.wzchen.com/probability-cheatsheet/) which I used for my Stat 110 final exam. Friends kept asking me to make edits for them, so I figured it made sense to just shared the original files.
